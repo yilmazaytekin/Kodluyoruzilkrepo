@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org)Back-End Eğitiminde oluşturdu�
 
 ## Installation
 
-öncelikle projeyi clonelayın (buraya sizin reponuzan alığınız link gelecek)
+öncelikle projeyi clonelayın (buraya sizin reponuzan alıdğınız link gelecek)
 ```bash
 git gh repo clone yilmazaytekin/Kodluyoruzilkrepo
 ```
